@@ -217,13 +217,7 @@ export default function HomeScreen() {
                   }
                   
                 </ScrollView>
-              </View>
-
-              
-              <View className = "flex-row items-center mx-5 space-x-2">
-                <Image source={require('../assets/icons/sun.png')} className="w-60 h-60"></Image>
-              </View>
-            
+              </View>           
             </SafeAreaView>
           )
         }
